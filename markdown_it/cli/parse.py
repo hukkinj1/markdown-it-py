@@ -73,7 +73,7 @@ def parse_args(args: Optional[Sequence[str]]) -> argparse.Namespace:
 Interactive:
 
   $ markdown-it
-  markdown-it-py [version {__version__}] (interactive)
+  {version_str} (interactive)
   Type Ctrl-D to complete input, or Ctrl-C to exit.
   >>> # Example
   ... > markdown *input*
